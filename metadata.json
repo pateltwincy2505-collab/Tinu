@@ -1,0 +1,6 @@
+{
+  "name": "PrecisionMetrics - Industrial Instrumentation & Process Control E-Commerce",
+  "description": "Custom B2B & industrial instrumentation e-commerce platform for precision sensors, flow meters, transmitters, calibration tools, and RFQ workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
